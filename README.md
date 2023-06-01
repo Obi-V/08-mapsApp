@@ -1,7 +1,7 @@
 # MapsApp
 No usar directamente en AngularCLI (a menos que estén creadas las variables de entorno), ya que las variables de entorno se crean basados en el .env
 
-Necesitarás un token de https://account.mapbox.com/ , es gratuito pero por desgracia hay que poner una tarjeta de crédito.
+Necesitarás un token de https://account.mapbox.com/ e introducirlo en las variables de entorno (.env), es gratuito pero por desgracia hay que poner una tarjeta de crédito.
 Puede ser que se pueda encontrar por internet pero no lo creo porque solo es gratis hasta ciertas peticiones al mes.
 
 ## Pasos:
