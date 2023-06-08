@@ -50,5 +50,10 @@ Esta serie de aplicaciones son para experimentar el funcionamiento de Angular, p
 
 Una vez que la aplicación esté en funcionamiento, puedes explorar las diferentes secciones y temas para aprender sobre Angular. Cada tema proporciona explicaciones, fragmentos de código y ejercicios para ayudarte a comprender mejor los conceptos de Angular. ¡Diviértete aprendiendo!
 
-### Texto creado con la ayuda chatGTP
+## Curso
+Todas estas aplicaciones son sacadas del curso de Fernando herrera [Angular: De cero a experto](https://www.udemy.com/course/angular-fernando-herrera/), recomiendo comprarlo ya que en el curso se explica todo muchísimo mejor y más detalladamente, además el curso se actualiza cada poco tiempo.  
 
+Muy buen curso, lo recomiendo siempre que tengas tiempo.
+
+
+### Texto creado con la ayuda de chatGTP
