@@ -40,7 +40,10 @@ npm run build
 ```
 npm run start
 ```
-
+9. La ruta en el navegador es:
+```
+http://localhost:4200/maps/
+```
 ## Uso
 
 Esta serie de aplicaciones son para experimentar el funcionamiento de Angular, pero recomiendo complementar con más información y videos que podreis encontrar gratis en Youtube.
