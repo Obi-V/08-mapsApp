@@ -15,7 +15,7 @@
 
 - **Capas de mapas personalizadas**: Mapbox ofrece numerosas opciones para personalizar la apariencia de los mapas, como cambiar el estilo del mapa, agregar capas personalizadas, aplicar filtros y más. La aplicación aprovecha estas características para ofrecer mapas visualmente atractivos y adaptados a tus necesidades.
 
-# MapsApp
+## MapsApp
 No usar directamente en AngularCLI (a menos que estén creadas las variables de entorno), ya que las variables de entorno se crean basados en el .env
 
 Necesitarás un token de https://account.mapbox.com/ e introducirlo en las variables de entorno (.env), es gratuito pero por desgracia hay que poner una tarjeta de crédito.
