@@ -23,14 +23,14 @@ Puede ser que se pueda encontrar por internet pero no lo creo porque solo es gra
 
 ## Instalación
 
-1. Clona el repositorio: `git clone https://github.com/Obi-V/06-formApp.git`
+1. Clona el repositorio: `git clone https://github.com/Obi-V/08-mapsApp.git`
 2. Clonar el .env.template y renombrarlo a .env
 3. Llenar las variables de entorno acorde
 4. Crear Angular Envs (opcional)
 ```
 npm run envs
 ```
-5. Navega hasta el directorio del proyecto: `cd 06-formApp.git`(Tu ruta)
+5. Navega hasta el directorio del proyecto: `cd 08-mapsApp`(Tu ruta)
 6. Instala las dependencias: `npm install`
 7. Ejecutar:
 ```
